@@ -1,0 +1,37 @@
+body {
+    background-color: black;
+}
+
+h1 {
+    color: grey;
+    padding: 20px;
+}
+
+#todo-table {
+    text-align: center;
+    background-color: black;
+}
+
+.btn {
+    font-size: 100px;
+}
+
+.btn-danger {
+    font-size: large;
+    color: aliceblue;
+    border: 2px solid black;
+    border-radius: 5px;
+}
+
+ul>li {
+    color: white;
+    padding: 15px;
+}
+
+input {
+    font-size: 400px;
+    border-radius: 10px;
+    border: 2px solid red;
+}
+
+.jumbotron {}
